@@ -1,5 +1,6 @@
 ---
 title: Posts
+math: true
 
 # View.
 #   1 = List

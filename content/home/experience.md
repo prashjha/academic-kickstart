@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral Scholar"
+  company = "The University of Texas at Austin"
+  company_url = "https://www.oden.utexas.edu/"
+  location = "Austin"
+  date_start = "2019-08-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Research
+  * Publication 
+  * Conference and Talks
+  * Collaboration
+  * Proposal
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoctoral Scholar"
+  company = "Louisiana State University"
+  company_url = "https://www.math.lsu.edu/"
+  location = "Baton Rouge"
+  date_start = "2016-10-01"
+  date_end = "2019-07-31"
+  description = """
+  Responsibilities include:
+  
+  * Research
+  * Publication 
+  * Conference and Talks
+  """
 
 +++

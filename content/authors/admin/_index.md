@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Prashant K. Jha
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The University of Texas at Austin
+  url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational modeling, continuum and fracture mechanics, modeling of tumor, Bayesian model inference, and neural network.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Modeling
+- Continuum and Fracture Mechanics
+- Modeling of Tumor
+- Bayesian Model Inference
+- Neural Network
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Civil and Environmental Engineering
+    institution: Carnegie Mellon University, Pittsburgh, USA
+    year: 2016
+  - course: ME in Mechanical Engineering
+    institution: Indian Institute of Science, Bangalore, India
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BE in Mechanical Engineering
+    institution: Govt. Engineering College, Raipur, India
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +46,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:pjha.sci@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/prashant_jha16
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=XvQBKlwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/prashjha
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prashant K. Jha is a postdoctoral scholar in Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. His research interests include computational modeling, continuum and fracture mechanics, modeling of tumor, Bayesian model inference, and neural network. He collaborates with people at universities such as Louisiana State University, Rice University, Technical University of Munich, and organization such as MD Anderson Cancer Center. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Current work involves proposing tumor growth models and their calibration and validation using predictive modeling framework. We are also interested in modeling phase separation in block-copolymers using Cahn-Hilliard equation. This will be done in collaboration with the researchers in [AEOLUS](https://www.oden.utexas.edu/about/news/527/) project at UT Austin.
