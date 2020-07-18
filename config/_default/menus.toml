@@ -10,37 +10,44 @@
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "project/"
   weight = 20
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "publication/"
   weight = 30
 
 [[main]]
   name = "Talks"
-  url = "#talks"
+  url = "talk/"
   weight = 40
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "post/"
   weight = 50
-
-[[main]]
-  name = "Personal Interests"
-  url = "#personal-interests"
-  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main_right]]
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 10
+
+[[main_right]]
+  name = "<i class=\"fab fa-github\" style=\"color: #333; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://github.com/prashjha/"
+  weight = 20
+
+[[main_right]]
+  name = "<i class=\"fab fa-twitter\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://twitter.com/prashant_jha16"
+  weight = 30

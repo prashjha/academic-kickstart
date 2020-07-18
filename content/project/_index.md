@@ -1,6 +1,6 @@
 ---
 title: Posts
-type: post
+type: project
 math: true
 
 # View.

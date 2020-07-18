@@ -1,5 +1,6 @@
 ---
 title: Publications
+type: publication
 
 # View.
 #   1 = List

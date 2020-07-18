@@ -1,5 +1,6 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks
+type: talk
 
 # View.
 #   1 = List

@@ -1,0 +1,23 @@
+// Override this file to add your own SCSS styling.
+
+/* Override margins for figures. */
+figure {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+figure img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Make homepage section padding compact. */
+.home-section {
+  padding: 50px 0 50px 0;
+}
+
+.navbar {
+  height: 50px;
+}
+
+
