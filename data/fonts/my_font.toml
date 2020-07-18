@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Classic"
+
+# Optional Google font URL
+google_fonts = "family=Slabo+27px|Lato:400,700|Roboto+Mono|Courier|Open+Sans"
+
+# Font families
+heading_font = "Open Sans"
+body_font = "Slabo"
+nav_font = "Lato"
+mono_font = "Roboto Mono"
