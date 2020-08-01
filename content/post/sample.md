@@ -10,4 +10,4 @@ header:
   image: ''
 ---
 
-Learning to write a blog using markdown!!
+Template for blog-post
