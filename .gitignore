@@ -4,3 +4,10 @@
 # Hugo
 resources/
 public/
+
+# from mac
+._*
+*/._*
+
+.DS_Store
+*/.DS_Store/*
