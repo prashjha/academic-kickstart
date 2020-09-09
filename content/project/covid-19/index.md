@@ -6,11 +6,11 @@ title = "Modeling COVID-19 epidemic spread and Bayesian based model inference an
 date = 2020-08-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "Study and apply different models of epidemic spread to COVID-19 and model selection and model calibration using Bayesian based methods."
+summary = "Study and apply different models of epidemic spread to COVID-19 and model selection and model calibration using Bayesian based methods"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["COVID-19", "computational", "Bayesian"]
+tags = ["COVID-19", "computational", "Bayesian", "model inference"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

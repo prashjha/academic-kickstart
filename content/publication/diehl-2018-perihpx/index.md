@@ -1,10 +1,10 @@
 ---
 title: "Implementation of Peridynamics utilizing HPX--the C++ standard library for parallelism and concurrency"
-date: 2018-01-01
-publishDate: 2020-07-17T04:30:12.202688Z
+date: 2018-06-18
+publishDate: 2018-06-18
 authors: ["Patrick Diehl", "Prashant K Jha", "Hartmut Kaiser", "Robert Lipton", "Martin Levesque"]
 publication_types: ["3"]
-abstract: ""
+abstract: "On modern supercomputers, asynchronous many task systems are emerging to address the new architecture of computational nodes. Through this shift of increasing cores per node, a new programming model with the focus on handle the fine-grain parallelism of this increasing amount of cores per computational node is needed. Asynchronous Many Task (AMT) run time systems represent an emerging paradigm for addressing fine-grain parallelism since they handle the increasing amount of threads per node and concurrency. HPX, a open source C++ standard library for parallelism and concurrency, is one AMT which is confirm with the C++ standard. Which means that HPX's Application Programming Interface (API) is confirm with its definition by the C++ standard committee. For example for the concept of futurization the hpx:future can be replaced by std::future without breaking the API. Peridynamics is a non-local generalization of continuum mechanics tailored to address discontinuous displacement fields arising in fracture mechanics. As many non-local approaches, peridynamics requires considerable computing resources to solve practical problems. This paper investigates the implementation of a peridynamics EMU nodal discretization in an asynchronous task-based fashion. The scalability of asynchronous task-based implementation is to be in agreement with theoretical estimations. In addition, to the scalabilty the code is convergent for implicit time integration and recovers theoretical solutions. Explicit time integration, convergence results are presented to showcase the agreement of results with theoretical claims in previous works."
 featured: false
 publication: "*arXiv preprint arXiv:1806.06917*"
 url_preprint: "https://arxiv.org/abs/1806.06917"

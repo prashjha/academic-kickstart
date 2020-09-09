@@ -1,6 +1,6 @@
 ---
 title: "Kinetic relations and local energy balance for LEFM from a nonlocal peridynamic model"
-date: 2020-09-06
+date: 2020-09-05
 publishDate: 2020-09-05
 authors: ["Prashant K Jha", "Robert P Lipton"]
 publication_types: ["2"]
