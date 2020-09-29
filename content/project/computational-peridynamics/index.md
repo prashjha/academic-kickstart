@@ -34,7 +34,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Weak scaling of distributed of 2d nonlocal equation (Credit P. Gayu)"
+  caption = "Nonlocal heat equation parallel solver scaling (Credit P. Gadikar GSoC project)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
