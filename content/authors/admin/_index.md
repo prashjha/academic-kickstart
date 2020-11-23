@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Scholar
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -78,8 +78,8 @@ user_groups:
 - Visitors
 ---
 
-Currently, I am working as a postdoctoral scholar at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received Ph.D. from Carnegie Mellon University in August 2016. I then worked as a Postdoctoral Scholar at the Department of Mathematics, Louisiana State University. In August 2019, I moved to the Oden Institute for Computational Engineering and Sciences as a Peter O'Donnell Postdoctoral Scholar to work with Dr. J. Tinsley Oden. At UT Austin, I am involved in projects related to the modeling of tumor growth and block-copolymers. I am also continuing my work on Peridynamics and its application to brittle fracture in solids. 
+Currently, I am working as a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received Ph.D. from Carnegie Mellon University in August 2016. I then worked as a Postdoctoral Scholar at the Department of Mathematics, Louisiana State University.  
 
 Current work includes the development of models of tumor growth and recovery of model parameters form the imaging data. Of particular interest is the angiogenesis in the tumor growth where new blood vessels are formed (and destroyed) in response to various signals from the nutrient-starved tumor cells. The model in development consists of a 1D network of blood vessels embedded in the tissue domain. This work is done in collaboration with researchers at the Technical University of Munich. We recently got a small grant to work on the development of PDE based model for HP MRI signal recovery. The work on HP MRI is done in collaboration with researchers at the MD Anderson Cancer Center. 
 
-I am actively involved in the analysis and application of Peridynamics and the development of computational methods for the class of nonlocal models. With Patrick Diehl at LSU, we have developed an [open-source C++ code](https://github.com/nonlocalmodels/NLMech) based on the HPX library. Towards the development of massively parallel library for peridynamics, we proposed a project in Google Summer of Code 2020 which was selected as one of the many projects sponsored by google, see [Project description in GSoC 2020](https://summerofcode.withgoogle.com/projects/?fbclid=IwAR20LX6DS97pzzRxBKFZiRR4vePMETYqTUPPBkrS-IfEcWha6MbVlbkNfh0#6693763189047296) and also code development on [Github](https://github.com/nonlocalmodels/nonlocalheatequation). 
+I am also working with experts at Center for Computational Oncology at Oden Institute on application of tumor growth models to breast cancer. One of the main objective is to calibrate and validate the model based on real data. From my work at LSU, we have developed an [open-source C++ code](https://github.com/nonlocalmodels/NLMech) based on the HPX library. Towards the development of massively parallel library for peridynamics, we proposed a project in Google Summer of Code 2020 that was selected as one of the many projects sponsored by google, see [Project description in GSoC 2020](https://summerofcode.withgoogle.com/projects/?fbclid=IwAR20LX6DS97pzzRxBKFZiRR4vePMETYqTUPPBkrS-IfEcWha6MbVlbkNfh0#6693763189047296) and also code development on [Github](https://github.com/nonlocalmodels/nonlocalheatequation). 

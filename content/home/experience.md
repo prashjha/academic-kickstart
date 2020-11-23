@@ -18,12 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Associate"
+  company = "The University of Texas at Austin"
+  company_url = "https://www.oden.utexas.edu/"
+  location = "Austin"
+  date_start = "2020-11-23"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Research
+  * Publication 
+  * Conference and Talks
+  * Collaboration
+  * Proposal
+  """
+
+[[experience]]
   title = "Postdoctoral Scholar"
   company = "The University of Texas at Austin"
   company_url = "https://www.oden.utexas.edu/"
   location = "Austin"
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "2020-11-22"
   description = """
   Responsibilities include:
   
