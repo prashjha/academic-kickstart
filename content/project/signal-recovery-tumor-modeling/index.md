@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Signal recovery from the imaging data"
+title = "Signal recovery from MRI"
 
 # Date this page was created.
 date = 2020-07-18T00:00:00
 
 # Project summary to display on homepage.
-summary = "Developement of models of tumor growth, angiogenesis, and drug therapy and recovery of model parameters from the imaging data"
+summary = "Development of models for improved signal recovery and image reconstruction, and developement and application of new methods for optimal data acquisition with uncertain model parameters"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -34,7 +34,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Tumor growth towards nutrient supplying vessel and angiogenesis"
+  #caption = "Tumor growth towards nutrient supplying vessel and angiogenesis"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -42,15 +42,14 @@ url_code = ""
 +++
 
 
-Developement of models of tumor growth, angiogenesis, and drug therapy and recovery of model parameters from the imaging data
+# Activities
 
-# Activity
+## 1. A mechanistic tumor growth model for HP MRI
 
-## A mechanistic tumor growth model for HP MRI
+This project aims to propose a PDE-based model for recovery of a parameter such as *pyruvate to lactate transfer rate* from the Hyperpolarized (HP) MR imaging data. HP MRI is a state of art imaging technique and provides a means to identify the tumor regions. Pyruvate to lactate conversion naturally occurs in tissue; however, this conversion is typically more substantial in the presence of cancerous cells. HP MRI provides the intensity of pyruvate and lactate produced from polarized pyruvate. The region with high lactate indicates the presence of cancerous cells. Postprocessing of HP MRI data involves the calculation of *pyruvate to lactate transfer rate*. Current models are based on spatially invariant compartmental models. Our objective is to propose a PDE-based model coupled with the vascular flow to describe pyruvate and lactate evolution. The vasculature will be based on real data. We believe that such a high-fidelity model will result in a more accurate recovery of parameters. 
 
-Objective of this project is to propose a PDE based model for recovery of signals from the HP MR imaging data. At present, ODE based compartmental models are considered.
+Recently, Oden Institute, MD Anderson Cancer Center, and TACC signed an MOU to advance cancer research. Our HP MRI project was selected as one of the five pilot projects under the joint initiative and will be effective from 09/01/2020 - 08/31/2021.
 
-Recently, Oden Institute, MD Anderson Cancer Center, and TACC signed an MOU to advance the cancer research. This project was selected as one of the 5 pilot projects under the joint initiative and will be effective from 09/01/2020 - 08/31/2021.
 
 
 

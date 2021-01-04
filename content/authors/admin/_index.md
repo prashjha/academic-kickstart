@@ -18,14 +18,14 @@ organizations:
   url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational modeling, continuum and fracture mechanics, computational oncology, Bayesian model inference, and neural network.
+bio: My research is driven by the application of mathematical modeling and computational methods to present-day relevantand challenging problems. Specific areas include continuum and fracture mechanics, computational oncology, and mul-tiscale modeling.
 
 interests:
-- Computational Modeling
 - Continuum and Fracture Mechanics
 - Computational Oncology
-- Bayesian Model Inference
-- Neural Network
+- Multiscale Modeling
+- Artificial Neural Networks
+
 
 education:
   courses:
@@ -78,8 +78,9 @@ user_groups:
 - Visitors
 ---
 
-Currently, I am working as a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received Ph.D. from Carnegie Mellon University in August 2016. I then worked as a Postdoctoral Scholar at the Department of Mathematics, Louisiana State University.  
+I am a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received a Ph.D. from Carnegie Mellon University in August 2016. I then worked as a Postdoctoral Scholar at the Department of Mathematics, Louisiana State University.  
 
-Current work includes the development of models of tumor growth and recovery of model parameters form the imaging data. Of particular interest is the angiogenesis in the tumor growth where new blood vessels are formed (and destroyed) in response to various signals from the nutrient-starved tumor cells. The model in development consists of a 1D network of blood vessels embedded in the tissue domain. This work is done in collaboration with researchers at the Technical University of Munich. We recently got a small grant to work on the development of PDE based model for HP MRI signal recovery. The work on HP MRI is done in collaboration with researchers at the MD Anderson Cancer Center. 
+Current work includes developing models of tumor growth and recovery of model parameters from the imaging data. Of particular interest is the angiogenesis in the tumor growth, where new blood vessels are formed (and destroyed) in response to various signals from the nutrient-starved tumor cells. The model in development consists of a 1D network of blood vessels embedded in the tissue domain. This work is done in collaboration with researchers at the Technical University of Munich. We recently got a small grant to develop a PDE-based model for Hyperpolarized (HP) MRI signal recovery. The work on HP MRI is done in collaboration with researchers at the MD Anderson Cancer Center. 
 
-I am also working with experts at Center for Computational Oncology at Oden Institute on application of tumor growth models to breast cancer. One of the main objective is to calibrate and validate the model based on real data. From my work at LSU, we have developed an [open-source C++ code](https://github.com/nonlocalmodels/NLMech) based on the HPX library. Towards the development of massively parallel library for peridynamics, we proposed a project in Google Summer of Code 2020 that was selected as one of the many projects sponsored by google, see [Project description in GSoC 2020](https://summerofcode.withgoogle.com/projects/?fbclid=IwAR20LX6DS97pzzRxBKFZiRR4vePMETYqTUPPBkrS-IfEcWha6MbVlbkNfh0#6693763189047296) and also code development on [Github](https://github.com/nonlocalmodels/nonlocalheatequation). 
+I am also working with experts at the Center for Computational Oncology at Oden Institute to apply tumor growth models to breast cancer. One of the main objectives is to calibrate and validate the model based on real data. From my past work at LSU, we have developed an [open-source C++ code](https://github.com/nonlocalmodels/NLMech) based on the HPX library. Towards the development of a massively parallel library for peridynamics, we proposed a project in Google Summer of Code 2020 that was selected as one of the many projects sponsored by google, see [Project description in GSoC 2020](https://summerofcode.withgoogle.com/projects/?fbclid=IwAR20LX6DS97pzzRxBKFZiRR4vePMETYqTUPPBkrS-IfEcWha6MbVlbkNfh0#6693763189047296) and also code development on [Github](https://github.com/nonlocalmodels/nonlocalheatequation).
+

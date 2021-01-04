@@ -1,6 +1,6 @@
 ---
 title: "Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network"
-date: 2020-06-18
+date: 2020-10-31
 publishDate: 2020-06-18
 authors: ["Marvin Fritz", "Prashant K Jha", "Tobias Köppl", "J Tinsley Oden", "Barbara Wohlmuth"]
 publication_types: ["3"]

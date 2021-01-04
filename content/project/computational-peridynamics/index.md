@@ -34,7 +34,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Nonlocal heat equation parallel solver scaling (Credit P. Gadikar GSoC project)"
+  caption = "NLMech library welcome page. https://github.com/nonlocalmodels/NLMech"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -43,14 +43,16 @@ url_code = ""
 
 Develop efficient and parallel computational methods for class of nonlocal models such as Peridynamics and nonlocal diffusion equations
 
-# Activity
+# Activities
 
-## Google Summer of Code 2020
-Towards development of massively parallel computational library for peridynamics and other class of nonlocal models, together with P. Diehl, we prepared a computational problem where the goal was to develop a massively parallel library for simple 2D nonlocal heat equation. See the rough description of the problem [here](description.pdf). This project was selected as one of the many projects sponsered by Google in Google Summer of Code and was assigned to student P. Gayu (IIT Madras). Pranav's work is open source and can be found [here](https://github.com/nonlocalmodels/nonlocalheatequation). 
+## 1. Google Summer of Code 2020
+Towards the development of a massively parallel computational library for peridynamics and other nonlocal models, together with P. Diehl, we prepared a computational problem where the goal was to develop a massively parallel library for the simple 2D nonlocal heat equation. See the rough description of the problem [here](https://github.com/nonlocalmodels/nonlocalheatequation/blob/master/description/problem_description.pdf). This project was selected as one of the many projects sponsored by Google in Google Summer of Code and was assigned to student P. Gadikar (IIT Madras). Pranav's work is open source and can be seen [here](https://github.com/nonlocalmodels/nonlocalheatequation). 
 
-## NLMech library
-With P. Diehl, we have launched our peridynamics code [NLMech](https://github.com/nonlocalmodels/NLMech) that utilizes [HPX](https://github.com/STEllAR-GROUP/hpx) library for efficient multi-threading computation. We aim to make NLMech library more user friendly and easily extensible in coming days. Our future goals are to 
+## 2. NLMech library
+We have launched peridynamics code [NLMech](https://github.com/nonlocalmodels/NLMech) that utilizes [HPX](https://github.com/STEllAR-GROUP/hpx) library for efficient multi-threading computation. We aim to make the NLMech library more user-friendly and easily extensible in the coming days. Our future goals are to 
 
-- develop fully parallel library following some of the key ideas and algorithms froom work on [Google Summer of Code 2020](https://summerofcode.withgoogle.com/projects/#6693763189047296)
+- develop a fully parallel library following some of the key ideas and algorithms from work on [Google Summer of Code 2020](https://summerofcode.withgoogle.com/projects/#6693763189047296)
 
-- implement Quasistatic discretization 
+- implement Quasistatic discretization
+
+The paper with P. Diehl briefly describing the open-source library is currently under review in JOSS (Journal of Open Source Software). The review of the code and paper is open and can be seen live [here](https://github.com/openjournals/joss-reviews/issues/2898).
