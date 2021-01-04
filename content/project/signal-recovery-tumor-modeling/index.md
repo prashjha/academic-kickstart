@@ -10,7 +10,7 @@ summary = "Development of models for improved signal recovery and image reconstr
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["tumor model", "computational", "model inference", "MRI data", "HP MRI"]
+tags = ["computational oncology", "model inference", "MRI data", "HP MRI"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

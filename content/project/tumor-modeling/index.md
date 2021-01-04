@@ -10,7 +10,7 @@ summary = "Development and analysis of models of tumor growth, angiogenesis, dru
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["tumor model", "angiogenesis", "modeling", "computational oncology"]
+tags = ["tumor model", "angiogenesis", "continuum modeling", "computational oncology", "multiphysics modeling"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

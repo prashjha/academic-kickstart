@@ -10,7 +10,7 @@ summary = "Study properties of granular media using computational methods"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["tumor model", "angiogenesis", "modeling", "computational oncology"]
+tags = ["granular media", "DEM", "computational mechanics", "PeriDEM"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
