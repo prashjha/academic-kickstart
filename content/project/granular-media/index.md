@@ -65,5 +65,5 @@ Taking the earlier research on peridynamics for granular media forward, we have 
 | *Two particles with same properties. $v_0 = 4$ m/s* | *Two particles with same properties. $v_0 = 5$ m/s* | *Top particle stronger than bottom. $v_0 = 4$ m/s* | *Top particle stronger than bottom. $v_0 = 5$ m/s* |
 
 | ![](files/t1.gif) | 
-| :---: | 
+| :----: | 
 | *Compressive test simulation* |
