@@ -50,9 +50,29 @@ In this work, we carefully looked at the peridynamic energy associated with the 
 
 An article recently published in the International Journal of Fracture, see more [details](https://link.springer.com/article/10.1007/s10704-020-00480-0).
 
+Some interesting simulations are shown next.
+
+| ![](files/mode-I_IntJFra.gif) | 
+| :--: | 
+| *Simulation of Mode-I propagation. We apply displacement boundary condition on smaller layer in top and bottom and start with small crack. Simulation from [paper](https://link.springer.com/article/10.1007/s10704-020-00480-0)* |
+
+| ![](files/mixed_mode_alex.gif) | ![](files/crack_and_void_alex.gif) |
+| :--: |  :--: | 
+| *Inclined crack propagation. We apply digonally outward force in small regions near the right-top and left-bottom corner. Simulation from [paper](https://link.springer.com/article/10.1007/s42102-019-00010-0). Here red indicates node with one or more broken bonds in its neighborhood.* | *Crack propagation in the presence of void. We see that void deflects the crack moving straight.* |
+
 ## 2. A priori error analysis and well-posedness of nonlinear peridynamic models
 
 At Louisiana State University, I had spent a good amount of time working on *a priori* error estimates for finite-difference and finite-element discretization of and well-posedness of nonlinear peridynamic models. This was under the guidance of my adviser Dr. R. Lipton. On this topic, we have published several journal articles and few book chapters, see [publication page]( {{< relref "publication" >}}). 
+
+We know that peridynamics regularizes the discontinuity; the sharp edge of discontnuity is replaced with softening zone in which the strains (classical strain) are too high and away from the softening zone the strains are smaller. Typically the size of softening zone is proportional to the nonlocal length scale. As the nonlocal length scale goes to zero, the softening zone localizes to sharp crack. To demonstrate this we consider a setup shown in Figure 1. In Figure 2, we plot the damage for three different nonlocal length scales at two times. We see that for smaller nonlocal length scale, the softening zone indicated by red region is smaller compared to that of bigger nonlocal length scale. In Figure 3, we put the plots of three horizons on top of each other and we clearly see the localization of softening zone.
+
+| ![](files/localization/setup.png) | ![](files/localization/Z_plots.png) |
+| :--: | :--: | 
+| *Figure 1: Setup for localization of softening zone. More details [preprint, section 6](https://arxiv.org/abs/1908.07589)* | *Figure 2: Damage in material with three horizons at two times.* |
+
+| ![](files/localization/Z_plots_overlap.png) | 
+|:--:| 
+| *Figure 3: Softening zone of three horizons when placed on top of each other. Light yellow, light orange, and red corresponds to smaller, intermediate, and larger horizon, respectively. We see that as horizon is getting smaller softening zone is shrinking to a very thin regio and ultimately in the limit it will tend to sharp crack.* |
 
 ## 3. Model development
 

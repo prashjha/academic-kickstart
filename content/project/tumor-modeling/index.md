@@ -34,7 +34,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Top row: Tumor growth towards artery (*arXiv:2006.10477*). Bottom row: Angiogenesis and tumor growth (*in preparation*)"
+  caption = "Angiogenesis simulation"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -49,7 +49,7 @@ This is joint work with Dr. J. T. Oden at UT Austin and colleagues at the Techni
 
 Figure 1 below shows progression of tumor towards nutrient rich artery on the right. In top row, the contour $\phi_T = 0.8$ plot of total tumor (sum of prolific, hypoxic, and necrotic) species volume fraction is shown. In bottom row, tumor sub-species, necrotic $\phi_N = 0.4$ (black), hypoxic $\phi_H = 0.45$ (orange), and prolific $\phi_P = 0.5$ (green), are shown. Figure is taken from [preprint: arXiv:2006.10477]( {{< relref "publication/fritz-2020-analysis" >}}).
 
-| ![](files/paper1-two-vessels.png) | 
+| ![](files/paper1/paper1-two-vessels.png) | 
 |:--:| 
 | *Figure 1: Tumor growth towards nutrient rich artery* |
 
@@ -57,15 +57,23 @@ Figure 1 below shows progression of tumor towards nutrient rich artery on the ri
 
 This work takes the work in the paper above one step further. In this work, we add the angiogenesis effect to the model. Angiogenesis is a phenomenon through which nutrient-starved tumor cells release unique molecules collectively called TAF (Tumor Angiogenesis Factor), which co-opt the blood vessels in the vicinity to grow towards the tumor colony and supply nutrients. This work is under preparation, and soon preprint will be available.
 
-Figure 2 demonstrates the angiogenesis effect and simultaneous tumor growth. Figure 3 shows the quantity of interests such as total tumor $\phi_T$, prolific $\phi_P$, hypoxic $\phi_H$, and necrotic $\phi_N$ masses with or without angiogenesis. Since angiogenesis is stochastic, we run the simulation multiple times to capture the variation in QoIs. Figures 2 and 3 are from *in preparation* work.
+Figure 2 demonstrates the angiogenesis effect and simultaneous tumor growth. Figure 3 shows the quantity of interests such as total tumor $\phi_T$, prolific $\phi_P$, hypoxic $\phi_H$, and necrotic $\phi_N$ masses with or without angiogenesis. Since angiogenesis is stochastic, we run the simulation multiple times to capture the variation in QoIs. Figures 2 and 3 and simulation videos in this section are from *in preparation* work.
 
-| ![](files/paper2-angio.png) | 
+| ![](files/paper2/paper2-angio.png) | 
 |:--:| 
 | *Figure 2: Network growth for two-vessels and complex network settings* |
 
-| ![](files/paper2-two-vessels-QoIstats.png) | 
+| ![](files/paper2/paper2-two-vessels-QoIstats.png) | 
 |:--:| 
 | *Figure 3: Effect of angiogenesis on tumor associated quantity of interests* |
+
+| ![](files/paper2/paper2_two_vessels/m1.gif) | ![](files/paper2/paper2_two_vessels/m2.gif) |
+| :---: |:---: |
+| *Angiogenesis simulation, two-vessels setup (sample 1)* | *Angiogenesis simulation, two-vessels setup (sample 2)* |
+
+| ![](files/paper2/paper2_complex/m1.gif) | ![](files/paper2/paper2_complex/m2.gif) |
+| :---: |:---: |
+| *Angiogenesis simulation, complex network setup (sample 1)* | *Angiogenesis simulation, complex network setup (sample 2)* |
 
 
 ## 3. Application and extension of the 3D-1D model of tumor growth
