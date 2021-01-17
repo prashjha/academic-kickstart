@@ -1,6 +1,6 @@
 ---
-title: Posts
-type: post
+title: Blogs
+type: blog
 math: true
 
 # View.
