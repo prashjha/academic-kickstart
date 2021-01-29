@@ -24,15 +24,6 @@ date_format = "Jan 2006"
   location = "Austin"
   date_start = "2020-11-23"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Research
-  * Publication 
-  * Conference and Talks
-  * Collaboration
-  * Proposal
-  """
 
 [[experience]]
   title = "Postdoctoral Scholar"
@@ -41,15 +32,6 @@ date_format = "Jan 2006"
   location = "Austin"
   date_start = "2019-08-01"
   date_end = "2020-11-22"
-  description = """
-  Responsibilities include:
-  
-  * Research
-  * Publication 
-  * Conference and Talks
-  * Collaboration
-  * Proposal
-  """
 
 [[experience]]
   title = "Postdoctoral Scholar"
@@ -58,12 +40,5 @@ date_format = "Jan 2006"
   location = "Baton Rouge"
   date_start = "2016-10-01"
   date_end = "2019-07-31"
-  description = """
-  Responsibilities include:
-  
-  * Research
-  * Publication 
-  * Conference and Talks
-  """
 
 +++

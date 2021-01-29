@@ -13,20 +13,25 @@ figure img {
 
 /* Make homepage section padding compact. */
 .home-section {
-  padding: 50px 0 50px 0;
+  padding: 30px 0 30px 0;
 }
 
 .navbar {
   height: 50px;
 }
 
-
 .article-container {
-  max-width: 920px !important;
+  max-width: 900px;
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
 }
 
-.container {
-    width: 90% !important;
+
+
+/**************************************************
+ *  Tags/Labels
+ **************************************************/
+
+.badge-light {
+  color: #c37669ff;
 }
