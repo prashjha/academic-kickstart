@@ -46,7 +46,9 @@ Develop efficient and parallel computational methods for class of nonlocal model
 # Activities
 
 ## 1. Google Summer of Code 2020
-Towards the development of a massively parallel computational library for peridynamics and other nonlocal models, together with P. Diehl, we prepared a computational problem where the goal was to develop a massively parallel library for the simple 2D nonlocal heat equation. See the rough description of the problem [here](https://github.com/nonlocalmodels/nonlocalheatequation/blob/master/description/problem_description.pdf). This project was selected as one of the many projects sponsored by Google in Google Summer of Code and was assigned to student P. Gadikar (IIT Madras). Pranav's work is open source and can be seen [here](https://github.com/nonlocalmodels/nonlocalheatequation). 
+Towards the development of a massively parallel computational library for peridynamics and other nonlocal models, together with P. Diehl, we prepared a computational problem where the goal was to develop a massively parallel library for the simple 2D nonlocal heat equation. See the rough description of the [problem](https://github.com/nonlocalmodels/nonlocalheatequation/blob/master/description/problem_description.pdf). This project was selected as one of the many projects sponsored by Google in Google Summer of Code and was assigned to student P. Gadikar (IIT Madras). Pranav's work is open source and can be seen [here](https://github.com/nonlocalmodels/nonlocalheatequation). 
+
+>Recently we submitted the conference paper on **GSoC 2020** work in *PDSEC 2021 (Parallel and Distributed Scientific and Engineering Computing 2021)*. More details and the pdf will be available in this link: [GSoC 2020 conference paper]( {{< relref "publication/gadikar-2021-nonlocal" >}}).
 
 ## 2. NLMech library
 We have launched peridynamics code [NLMech](https://github.com/nonlocalmodels/NLMech) that utilizes [HPX](https://github.com/STEllAR-GROUP/hpx) library for efficient multi-threading computation. We aim to make the NLMech library more user-friendly and easily extensible in the coming days. Our future goals are to 
