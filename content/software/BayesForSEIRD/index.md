@@ -43,7 +43,7 @@ url_code = ""
 
 # Code information
 
-Gihub link: [BayesForSEIRD](https://github.com/prashjha/BayesForSEIRD)
+Github link: [BayesForSEIRD](https://github.com/prashjha/BayesForSEIRD)
 
 Documentation: [BayesForSEIRD documentation](https://github.com/prashjha/BayesForSEIRD/blob/master/README.md)
 

@@ -43,7 +43,7 @@ url_code = ""
 
 # Code information
 
-Gihub link: [nonlocalheatequation](https://github.com/nonlocalmodels/nonlocalheatequation)
+Github link: [nonlocalheatequation](https://github.com/nonlocalmodels/nonlocalheatequation)
 
 Documentation: [nonlocalheatequation documentation](https://nonlocalmodels.github.io/nonlocalheatequation/documentation/)
 

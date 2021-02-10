@@ -43,7 +43,7 @@ url_code = ""
 
 # Code information
 
-Gihub link: [PeriDEM](https://github.com/prashjha/PeriDEM)
+Github link: [PeriDEM](https://github.com/prashjha/PeriDEM)
 
 Documentation: TBA
 

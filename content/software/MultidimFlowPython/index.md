@@ -43,7 +43,7 @@ url_code = ""
 
 # Code information
 
-Gihub link: [MultidimFlowPython](https://github.com/prashjha/MultidimFlowPython)
+Github link: [MultidimFlowPython](https://github.com/prashjha/MultidimFlowPython)
 
 Documentation: [MultidimFlowPython documentation](https://github.com/prashjha/MultidimFlowPython/blob/main/README.md)
 

@@ -43,7 +43,7 @@ url_code = ""
 
 # Code information
 
-Gihub link: [NLMech](https://github.com/nonlocalmodels/NLMech)
+Github link: [NLMech](https://github.com/nonlocalmodels/NLMech)
 
 Documentation: [NLMech documentation](https://nonlocalmodels.github.io/documentation/)
 
