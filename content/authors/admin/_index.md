@@ -18,7 +18,7 @@ organizations:
   url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is driven by the application of mathematical modeling and computational methods to present-day relevantand challenging problems. Specific areas include continuum and fracture mechanics, computational oncology, and mul-tiscale modeling.
+bio: My research is driven by the application of mathematical modeling and computational methods to present-day relevant and challenging problems. Specific areas include continuum and fracture mechanics, computational oncology, and multiscale modeling.
 
 interests:
 - Continuum and Fracture Mechanics
