@@ -45,10 +45,12 @@ url_code = ""
 
 Github link: [PeriDEM](https://github.com/prashjha/PeriDEM)
 
-Documentation: TBA
+Documentation: 
+
+- [Readme](https://github.com/prashjha/PeriDEM/blob/main/README.md)
+
+- [Doxygen documentation](https://prashjha.github.io/PeriDEM/)
 
 Developers:
  
 - Prashant K. Jha
-
-> Code will be released soon
