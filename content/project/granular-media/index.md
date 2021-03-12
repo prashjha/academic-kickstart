@@ -34,7 +34,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Damage plot at different times in a compressive test. Red indicates discretized nodes with damage."
+  caption = "PeriDEM simulation"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -69,6 +69,6 @@ Taking the earlier research on peridynamics for granular media forward, we have 
 | :---: | 
 | *Fracture simulation with concave particles.* |
 
-| ![](featured.gif) | 
+| ![](files/compressive_test.gif) | 
 | :----: | 
 | *Compressive test simulation* |
