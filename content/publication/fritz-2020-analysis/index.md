@@ -10,3 +10,5 @@ publication: "*arXiv preprint arXiv:2006.10477*"
 url_preprint: "https://arxiv.org/abs/2006.10477"
 ---
 
+> Revision accepted in Non-linear Analysis: Real World Applications.
+
