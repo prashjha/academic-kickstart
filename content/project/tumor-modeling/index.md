@@ -45,9 +45,9 @@ url_code = ""
 
 ## 1. Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network
 
-This is joint work with Dr. J. T. Oden at UT Austin and colleagues at the Technical University of Munich. In this work, we study the 3D-1D model of tumor growth that couples the flow and transport of nutrients in the vessel network with nutrient and tumor evolution in the tissue domain. In particular, we looked at the problem of the resulting highly coupled multi-dimension nonlinear model's well-posedness. See the [preprint: arXiv:2006.10477]( {{< relref "publication/fritz-2020-analysis" >}}).
+This is joint work with Dr. J. T. Oden at UT Austin and colleagues at the Technical University of Munich. In this work, we study the 3D-1D model of tumor growth that couples the flow and transport of nutrients in the vessel network with nutrient and tumor evolution in the tissue domain. In particular, we looked at the well-posedness of the resulting highly coupled multi-dimension nonlinear model. See the [article]( {{< relref "publication/fritz-2020-analysis" >}}).
 
-Figure 1 below shows progression of tumor towards nutrient rich artery on the right. In top row, the contour $\phi_T = 0.8$ plot of total tumor (sum of prolific, hypoxic, and necrotic) species volume fraction is shown. In bottom row, tumor sub-species, necrotic $\phi_N = 0.4$ (black), hypoxic $\phi_H = 0.45$ (orange), and prolific $\phi_P = 0.5$ (green), are shown. Figure is taken from [preprint: arXiv:2006.10477]( {{< relref "publication/fritz-2020-analysis" >}}).
+Figure 1 below shows progression of tumor towards nutrient rich artery on the right. In top row, the contour $\phi_T = 0.8$ plot of total tumor (sum of prolific, hypoxic, and necrotic) species volume fraction is shown. In bottom row, tumor sub-species, necrotic $\phi_N = 0.4$ (black), hypoxic $\phi_H = 0.45$ (orange), and prolific $\phi_P = 0.5$ (green), are shown. Figure is taken from [article]( {{< relref "publication/fritz-2020-analysis" >}}).
 
 | ![](files/paper1/paper1-two-vessels.png) | 
 |:--:| 
