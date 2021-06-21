@@ -46,19 +46,17 @@ url_code = ""
 
 ## 1. Kinetic relations and local energy balance for LEFM from a nonlocal peridynamic model
 
-In this work, we carefully looked at the peridynamic energy associated with the process zone. We recovered the kinetic relation for crack tip velocity for the mode-I crack problem. It is based on more theoretical work; see [arXiv preprint](https://arxiv.org/abs/2001.00313). This is joint work with Dr. R. Lipton.
-
-An article recently published in the International Journal of Fracture, see more [details](https://link.springer.com/article/10.1007/s10704-020-00480-0).
+In this work, we carefully looked at the peridynamic energy associated with the process zone. We recovered the kinetic relation for crack tip velocity for the mode-I crack problem. It is based on more theoretical work; see [Lipton and Jha 2021]( {{< relref "publication/lipton-2020-plane" >}}), [Jha and Lipton 2020]( {{< relref "publication/jha-2020-peri" >}}). This is joint work with Dr. R. Lipton.
 
 Some interesting simulations are shown next.
 
 | ![](files/mode-I_IntJFra.gif) | 
 | :--: | 
-| *Simulation of Mode-I propagation. We apply vertically outward displacement boundary conditions on the small layer in the top and bottom. Material has initial pre-crack. Simulation from [paper](https://link.springer.com/article/10.1007/s10704-020-00480-0)* |
+| *Simulation of Mode-I propagation. We apply vertically outward displacement boundary conditions on the small layer in the top and bottom. Material has initial pre-crack. Simulation from [article](https://link.springer.com/article/10.1007/s10704-020-00480-0)* |
 
 | ![](files/mixed_mode_alex.gif) | ![](files/crack_and_void_alex.gif) |
 | :--: |  :--: | 
-| *Inclined crack propagation. We apply diagonally outward force in small regions near the right-top and left-bottom corner. Simulation from [paper](https://link.springer.com/article/10.1007/s42102-019-00010-0). Here red indicates a node with one or more broken bonds in its neighborhood.* | *Crack propagation in the presence of the void. We see that void deflects the crack moving straight.* |
+| *Inclined crack propagation. We apply diagonally outward force in small regions near the right-top and left-bottom corner. Simulation from [article](https://link.springer.com/article/10.1007/s42102-019-00010-0). Here red indicates a node with one or more broken bonds in its neighborhood.* | *Crack propagation in the presence of the void. We see that void deflects the crack moving straight.* |
 
 ## 2. A priori error analysis and well-posedness of nonlinear peridynamic models
 
@@ -76,5 +74,5 @@ We know that peridynamics regularizes the discontinuity; the sharp edge of disco
 
 ## 3. Model development
 
-In this [paper]( {{< relref "publication/lipton-2018-free" >}}), we proposed a bond-based peridynamic model with memory effect. If the material is subjected to cyclic loading, with each cycle deforming the material beyond some critical strain, it will continue to lose stiffness in every loading cycle. This effect is simulated using the temporal nonlocal force (material strength at a current time depends on the history) in the proposed model.
+In this [article]( {{< relref "publication/lipton-2018-free" >}}), we proposed a bond-based peridynamic model with memory effect. If the material is subjected to cyclic loading, with each cycle deforming the material beyond some critical strain, it will continue to lose stiffness in every loading cycle. This effect is simulated using the temporal nonlocal force (material strength at a current time depends on the history) in the proposed model.
 

@@ -55,9 +55,9 @@ Figure 1 below shows progression of tumor towards nutrient rich artery on the ri
 
 ## 2. Modeling and simulation of vascular tumors embedded in dynamically evolving capillary networks
 
-This work takes the work in the paper above one step further. In this work, we add the angiogenesis effect to the model. Angiogenesis is a phenomenon through which nutrient-starved tumor cells release unique molecules collectively called TAF (Tumor Angiogenesis Factor), which co-opt the blood vessels in the vicinity to grow towards the tumor colony and supply nutrients. We recently submitted the work for review, see [preprint: arXiv:2101.10183]( {{< relref "publication/fritz-2021-angiogenesis" >}}).
+This work takes the work in the paper above one step further. In this work, we add the angiogenesis effect to the model. Angiogenesis is a phenomenon through which nutrient-starved tumor cells release unique molecules collectively called TAF (Tumor Angiogenesis Factor), which co-opt the blood vessels in the vicinity to grow towards the tumor colony and supply nutrients. We recently submitted the work for review, see [article]( {{< relref "publication/fritz-2021-angiogenesis" >}}).
 
-Figure 2 demonstrates the angiogenesis effect and simultaneous tumor growth. Figure 3 shows the quantity of interests such as total tumor $\phi_T$, prolific $\phi_P$, hypoxic $\phi_H$, and necrotic $\phi_N$ masses with or without angiogenesis. Since angiogenesis is stochastic, we run the simulation multiple times to capture the variation in QoIs. Figures 2 and 3 and simulation videos in this section are from [preprint: arXiv:2101.10183]( {{< relref "publication/fritz-2021-angiogenesis" >}}).
+Figure 2 demonstrates the angiogenesis effect and simultaneous tumor growth. Figure 3 shows the quantity of interests such as total tumor $\phi_T$, prolific $\phi_P$, hypoxic $\phi_H$, and necrotic $\phi_N$ masses with or without angiogenesis. Since angiogenesis is stochastic, we run the simulation multiple times to capture the variation in QoIs. Figures 2 and 3 and simulation videos in this section are from [article]( {{< relref "publication/fritz-2021-angiogenesis" >}}).
 
 | ![](files/paper2/paper2-angio.png) | 
 |:--:| 
