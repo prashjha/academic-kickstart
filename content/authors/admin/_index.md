@@ -80,8 +80,10 @@ user_groups:
 
 I am a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received a Ph.D. from Carnegie Mellon University in August 2016. I then worked as a Postdoctoral Scholar at the Department of Mathematics, Louisiana State University.  
 
-Current work includes developing models of tumor growth and recovery of model parameters from the imaging data. Of particular interest is angiogenesis, where new blood vessels are formed (and destroyed) in response to various signals from the nutrient-starved tumor cells. The model in development consists of a 1D network of blood vessels embedded in the tissue domain. This work is done in collaboration with researchers at the Technical University of Munich. We recently got a small grant to develop a PDE-based model for Hyperpolarized (HP) MRI signal recovery. The work on HP MRI is done in collaboration with researchers at the MD Anderson Cancer Center. 
+Current work includes developing models of tumor growth and recovery of model parameters from the imaging data. Of particular interest is angiogenesis, where new blood vessels are formed (and destroyed) in response to various signals from the nutrient-starved tumor cells. We recently got a small grant to develop a PDE-based model for Hyperpolarized (HP) MRI signal recovery. The work on HP MRI is done in collaboration with researchers at the MD Anderson Cancer Center. In addition, I have recently become interested in granular media and associated challenges in model development. Towards this, we have developed a high-fidelity model *PeriDEM* that can handle individual deformation and breakage of arbitrarily shaped particles and the contacts between deforming bodies.
 
-I am also working with experts at the Center for Computational Oncology at Oden Institute to apply tumor growth models to breast cancer. One of the main objectives is to calibrate and validate the model based on MRI data. Recently, the computational library for granular media, [PeriDEM](https://github.com/prashjha/PeriDEM), was open-sourced. The plan includes making this library more user-friendly and extension to multi-physics problems.
+I will be teaching two courses during **Fall 2021** at UT Austin. The two subjects are *Engineering Computation* in Aerospace Engineering and Engineering Mechanics and *Introduction to Numerical Methods in Biomedical Engineering* in Biomedical Engineering.
+
+
 
 
