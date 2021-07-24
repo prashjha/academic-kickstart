@@ -82,7 +82,7 @@ I am a Research Associate at the Oden Institute for Computational Engineering an
 
 Current work includes developing models of tumor growth and recovery of model parameters from the imaging data. Of particular interest is angiogenesis, where new blood vessels are formed (and destroyed) in response to various signals from the nutrient-starved tumor cells. We recently got a small grant to develop a PDE-based model for Hyperpolarized (HP) MRI signal recovery. The work on HP MRI is done in collaboration with researchers at the MD Anderson Cancer Center. In addition, I have recently become interested in granular media and associated challenges in model development. Towards this, we have developed a high-fidelity model *PeriDEM* that can handle individual deformation and breakage of arbitrarily shaped particles and the contacts between deforming bodies.
 
-I will be teaching two courses during **Fall 2021** at UT Austin. The two subjects are *Engineering Computation* in Aerospace Engineering and Engineering Mechanics and *Introduction to Numerical Methods in Biomedical Engineering* in Biomedical Engineering.
+I will be teaching two courses during **Fall 2021** at UT Austin. The two subjects are *Engineering Computation* in Aerospace Engineering and Engineering Mechanics and *Introduction to Numerical Methods in Biomedical Engineering* in Biomedical Engineering. I am serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors. 
 
 
 
