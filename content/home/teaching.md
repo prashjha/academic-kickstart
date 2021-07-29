@@ -38,8 +38,10 @@ date_format = "Jan 2006"
 
 +++
 
-### 1. COE 311K -- Engineering Computation (Fall 2021)
+### 1. COE 311K -- Engineering Computation (Fall 2021) 
 [Department of Aerospace Engineering and Engineering Mechanics](https://www.ae.utexas.edu/), The University of Texas at Austin
+
+[Link to course website](https://prashjha.github.io/COE-311K-website/)
 
 ### 2. COE 313L -- Introduction to Numerical Methods in Biomedical Engineering (Fall 2021)
 [Department of Biomedical Engineering](https://www.bme.utexas.edu/), The University of Texas at Austin
